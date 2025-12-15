@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://gifs.alphacoders.com/gifs/view/219179" alt="Nagui Bot Presentation - Blue Lock" width="1000"/>
+<img src="https://gifdb.com/images/high/seishiro-nagi-blue-lock-talking-0ok9ne0po822qt6j.webp" alt="Nagui Bot Presentation - Blue Lock" width="1000"/>
 </p>
 
 <p align="center">
