@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="src/img/nagui-presentation.gif" alt="Nagui Bot Presentation - Blue Lock" width="1000"/>
+<img src="https://media.tenor.com/Zl8OFJfSc3EAAAAC/nagi-seishiro-nagi.gif" alt="Nagui Bot Presentation - Blue Lock" width="1000"/>
 </p>
 
 <p align="center">
@@ -234,7 +234,7 @@ Para reportar bugs o sugerencias, abre un issue en el repositorio de GitHub.
 
 - [GitHub Repository](https://github.com/Anonimus1221/nagui-bot)
 - [WhatsApp Web JS](https://github.com/pedroslopez/whatsapp-web.js)
-- [Blue Lock Anime](https://myanimelist.net/anime/51596/Blue_Lock)
+- [Blue Lock Anime](https://myanimelist.net/anime/49596/Blue_Lock?q=blue%20lock&cat=anime)
 
 ---
 
