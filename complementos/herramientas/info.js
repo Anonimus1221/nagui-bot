@@ -5,7 +5,7 @@ module.exports = {
     try {
       const uptime = process.uptime();
       const hours = Math.floor(uptime / 3600);
-      const text = `🤖 *Bot Nagui*\n\n📱 Versión: 1.4\n👨‍💻 Creador: programmer\n📞 Número: +573182049792\n📸 Instagram: @oliversc_3z\n🔗 Link: https://www.instagram.com/oliversc_3z\n🌐 Lenguaje: Español\n⏱️ Activo: ${hours}+ horas\n\n✨ Funciones: Admin, Descargas, IA, Logos, Juegos, Economía, Herramientas, Busquedas y más.`;
+      const text = `🤖 *Bot Nagui*\n\n📱 Versión: 1.4\n👨‍💻 Creador: programmer\n🌐 Lenguaje: Español\n⏱️ Activo: ${hours}+ horas\n\n✨ Funciones: Admin, Descargas, IA, Logos, Juegos, Economía, Herramientas, Busquedas y más.`;
       message.reply(text);
     } catch (error) {
       console.error('Error en info:', error);
