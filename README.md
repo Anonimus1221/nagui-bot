@@ -274,7 +274,7 @@ git clone https://github.com/Anonimus1221/nagui-bot && cd nagui-bot && npm insta
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-Edita `configuracion/config.json` para personalizar tu bot:
+Edita `configuracion/config.json` para personalizar el bot:
 
 ```json
 {
@@ -411,8 +411,8 @@ Este proyecto está bajo licencia **MIT Modificada**.
 │  💬 Sígueme en:                                             │
 │     → GitHub: @Anonimus1221                                │
 │     → WhatsApp: Disponible en el repositorio              │
-│     → Telegram: @NaguiBotSupport                          │
-│     → Email: naguibot@example.com                         │
+│     → Telegram:                        │
+│     → Email: naguibot@gmail.com                         │
 └─────────────────────────────────────────────────────────────┘
 ```
 </details>
@@ -443,17 +443,9 @@ Este proyecto está bajo licencia **MIT Modificada**.
 - 📖 README con animaciones ASCII
 </details>
 
----
+--
 
-## 🌟 DESARROLLADORES
-
-<a href="https://github.com/Anonimus1221/nagui-bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Anonimus1221/nagui-bot" /> 
-</a>
-
----
-
-## 🌟 CREADORA
+## 🌟 CREADOR
 
 [![Anonimus1221](https://github.com/Anonimus1221.png?size=100)](https://github.com/Anonimus1221) 
 
